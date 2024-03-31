@@ -1,2 +1,3 @@
 # pixels-site
-live update pixel interactive
+
+live updates to pixels on screen
