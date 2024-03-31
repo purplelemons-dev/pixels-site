@@ -15,6 +15,7 @@
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/adapter-cloudflare": "^4.2.0",
+		"@sveltejs/adapter-cloudflare-workers": "^2.2.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
 		"@types/eslint": "^8.56.0",
@@ -32,5 +33,9 @@
 		"vite": "^5.0.3",
 		"vitest": "^1.2.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"firebase": "^10.10.0",
+		"sveltefire": "^0.4.5"
+	}
 }
