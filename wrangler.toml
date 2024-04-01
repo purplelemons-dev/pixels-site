@@ -1,0 +1,7 @@
+account_id = "d7c0f78c25d131d8575cbe63df040d39"
+compatibility_date = "2024-03-31"
+main = "cloudflare/worker.js"
+name = "pixels-site"
+
+[site]
+bucket = "cloudflare"
